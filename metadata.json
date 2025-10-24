@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Chat (دردشة Gemini)",
+  "description": "A simple and beautiful AI chat application powered by the Gemini API. Supports both Arabic and English. تطبيق دردشة ذكاء اصطناعي بسيط وجميل مدعوم بواجهة برمجة تطبيقات Gemini. يدعم اللغتين العربية والإنجليزية.",
+  "requestFramePermissions": []
+}
